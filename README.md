@@ -1,6 +1,6 @@
 # [Project Name]
 
-[One-sentence tagline about what your project does.]
+[ne-sentence tagline about what your project does.]
 
 [Optional: badges]
 <!-- Example:
