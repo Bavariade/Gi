@@ -13,7 +13,7 @@
 - [Feature 2]
 - [Feature 3]
 
-## 🧱 Tech Stack
+## 🧱 Teh Stack
 - Language/Framework: [e.g., TypeScript, Next.js, Python, FastAPI]
 - Tooling: [e.g., pnpm, Docker, Jest, Pytest]
 - Infra: [e.g., Vercel, Fly.io, Railway]
